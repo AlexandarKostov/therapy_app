@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About project
 
 This app is about therapy where you can logged in as an admin,doctor or pacient and can schedule a call with doctors which they can give diagnose and etc.
  It's not finished because so if you need anything you can clone the project and try to modify it and finish the project.
